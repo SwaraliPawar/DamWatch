@@ -102,9 +102,6 @@ The dashboard enables users to:
 
 Add screenshots of your dashboard here.
 
-### Home Dashboard
-
-![Dashboard Screenshot](assets/dashboard.png)
 
 ## 🔮 Future Enhancements
 
@@ -118,7 +115,7 @@ Add screenshots of your dashboard here.
 
 **Swarali**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/your-SwaraliPawar
 
 ## 📄 License
 
